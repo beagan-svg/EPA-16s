@@ -5,7 +5,7 @@ The Impact of Weatherization on Microbial Ecology and Human Health
 
 ## Introduction 
 
-This repository contains scripts that have been used to analyze miRNA data.
+This repository contains scripts that have been used to analyze the EPA 16s Data.
 
 Table of Contents 
 -----------------
